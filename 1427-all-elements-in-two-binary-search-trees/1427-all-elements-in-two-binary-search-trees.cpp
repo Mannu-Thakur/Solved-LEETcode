@@ -1,43 +1,29 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
-    void solve(TreeNode* root, vector<int>& res) {
-        if (!root) return;
-        res.push_back(root->val);         // Preorder traversal
-        solve(root->left, res);
-        solve(root->right, res);
+    void pushLeft(TreeNode* node, stack<TreeNode*>& st) {
+        while (node) {
+            st.push(node);
+            node = node->left;
+        }
     }
 
 public:
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int> res;
-        
-        if (!root1 && !root2) {
-            return {};
-        }
-        else if (!root1) {
-            solve(root2, res);
-        }
-        else if (!root2) {
-            solve(root1, res);
-        }
-        else {
-            solve(root1, res);
-            vector<int> temp;
-            solve(root2, temp);
-            res.insert(res.end(), temp.begin(), temp.end());
+        stack<TreeNode*> s1, s2;
+        vector<int> result;
+
+        pushLeft(root1, s1);
+        pushLeft(root2, s2);
+
+        while (!s1.empty() || !s2.empty()) {
+            stack<TreeNode*>& current = 
+                s2.empty() || (!s1.empty() && s1.top()->val <= s2.top()->val) ? s1 : s2;
+
+            TreeNode* node = current.top();
+            current.pop();
+            result.push_back(node->val);
+            pushLeft(node->right, current);
         }
 
-        sort(res.begin(), res.end());  // Sort after collecting all values
-        return res;
+        return result;
     }
 };
