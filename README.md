@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 ## Prefix Sum
