@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Breadth-First Search
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Math
 |  |
