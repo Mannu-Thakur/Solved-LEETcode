@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 ## Prefix Sum
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Greedy
 |  |
 | ------- |
