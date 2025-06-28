@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Prefix Sum
 |  |
