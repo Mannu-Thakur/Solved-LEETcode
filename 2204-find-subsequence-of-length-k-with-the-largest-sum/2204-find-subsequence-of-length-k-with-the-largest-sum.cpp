@@ -14,8 +14,8 @@ public:
             q.pop();
         }
         vector<int>ans;
-        for (auto&x : m){
-            ans.push_back(x.second);
+        for(auto &s: m){
+            ans.push_back(s.second);
         }
 
         return ans;
