@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0171-excel-sheet-column-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [1008-binary-tree-cameras](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1008-binary-tree-cameras) |
