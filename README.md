@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
+| [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [1008-binary-tree-cameras](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1008-binary-tree-cameras) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
+| [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
+| [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
