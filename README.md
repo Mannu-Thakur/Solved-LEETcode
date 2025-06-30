@@ -176,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
