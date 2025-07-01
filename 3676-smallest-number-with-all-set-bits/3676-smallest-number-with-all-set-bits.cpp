@@ -1,11 +1,10 @@
 class Solution {
 public:
     int smallestNumber(int n) {
-        vector<int> res;
+         
 
         int val = 1;
         while (val <= n) {
-            res.push_back(val);
             val *= 2;
         }
 
