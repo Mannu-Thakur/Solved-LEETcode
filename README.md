@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [3617-find-the-original-typed-string-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Function
 |  |
 | ------- |
