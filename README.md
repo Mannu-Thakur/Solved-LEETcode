@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-node-with-highest-edge-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2455-node-with-highest-edge-score) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Greedy
 |  |
