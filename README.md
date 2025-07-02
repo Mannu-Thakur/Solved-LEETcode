@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0507-perfect-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3676-smallest-number-with-all-set-bits) |
