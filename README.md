@@ -370,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0086-partition-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
