@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1008-binary-tree-cameras) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
+| [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
