@@ -1,24 +1,43 @@
 class Solution {
-    // Helper function to find depth and parent
-    void dfs(TreeNode* root, int val, int depth, TreeNode* parent, int& outDepth, TreeNode*& outParent) {
-        if (!root) return;
-        if (root->val == val) {
-            outDepth = depth;
-            outParent = parent;
-            return;
-        }
-        dfs(root->left, val, depth + 1, root, outDepth, outParent);
-        dfs(root->right, val, depth + 1, root, outDepth, outParent);
-    }
-
 public:
     bool isCousins(TreeNode* root, int x, int y) {
-        int dx = -1, dy = -1;
-        TreeNode *px = nullptr, *py = nullptr;
+        if (!root) return false;
 
-        dfs(root, x, 0, nullptr, dx, px);
-        dfs(root, y, 0, nullptr, dy, py);
+        queue<TreeNode*> q;
+        q.push(root);
 
-        return (dx == dy) && (px != py); // Same level, different parents
+        while (!q.empty()) {
+            int size = q.size();
+            TreeNode* xParent = nullptr;
+            TreeNode* yParent = nullptr;
+
+            for (int i = 0; i < size; ++i) {
+                TreeNode* node = q.front(); q.pop();
+
+                if (node->left) {
+                    q.push(node->left);
+                    if (node->left->val == x) xParent = node;
+                    if (node->left->val == y) yParent = node;
+                }
+
+                if (node->right) {
+                    q.push(node->right);
+                    if (node->right->val == x) xParent = node;
+                    if (node->right->val == y) yParent = node;
+                }
+            }
+
+            // If both found at same level
+            if (xParent && yParent) {
+                return xParent != yParent; // cousins if different parents
+            }
+
+            // If only one is found at this level, return false
+            if ((xParent && !yParent) || (!xParent && yParent)) {
+                return false;
+            }
+        }
+
+        return false;
     }
 };
