@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0543-diameter-of-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0543-diameter-of-binary-tree) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
@@ -381,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
