@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Divide and Conquer
