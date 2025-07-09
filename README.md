@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1008-binary-tree-cameras) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
