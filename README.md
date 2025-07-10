@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
+| [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
