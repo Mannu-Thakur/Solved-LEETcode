@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [1916-find-center-of-star-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1916-find-center-of-star-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2455-node-with-highest-edge-score) |
 ## Two Pointers
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
