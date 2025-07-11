@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Brainteaser
 |  |
 | ------- |
