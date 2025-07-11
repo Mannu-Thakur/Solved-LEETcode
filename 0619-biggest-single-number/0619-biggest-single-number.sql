@@ -1,5 +1,7 @@
 SELECT MAX(num) AS num
-FROM MyNumbers
-GROUP BY num
-HAVING COUNT(*) = 1
-LIMIT 1;
+FROM (
+    SELECT num
+    FROM MyNumbers
+    GROUP BY num
+    HAVING COUNT(*) = 1
+) AS t;
