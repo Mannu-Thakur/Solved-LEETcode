@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
