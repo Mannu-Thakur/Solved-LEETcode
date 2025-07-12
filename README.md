@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1428-jump-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Tree
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
+| [1428-jump-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1428-jump-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1428-jump-game-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
