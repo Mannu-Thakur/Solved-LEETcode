@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
