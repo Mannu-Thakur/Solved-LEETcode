@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
+| [3396-valid-word](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Function
 |  |
