@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3396-valid-word) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3676-smallest-number-with-all-set-bits) |
