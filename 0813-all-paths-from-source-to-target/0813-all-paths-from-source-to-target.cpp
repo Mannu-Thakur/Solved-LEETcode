@@ -41,11 +41,12 @@ class Solution {
 
         if (start == n - 1) {
             res.push_back(path);  // found one complete path
-        } else {
-            for (auto &nbr : graph[start]) {
-                solve(nbr, path, res, graph, n);
-            }
         }
+        
+        for (auto &nbr : graph[start]) {
+          solve(nbr, path, res, graph, n);
+         }
+
 
         path.pop_back();  // backtrack
     }
