@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0508-most-frequent-subtree-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
@@ -477,11 +480,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Bitmask
