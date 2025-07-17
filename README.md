@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0086-partition-list) |
+| [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -620,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1300-critical-connections-in-a-network) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
