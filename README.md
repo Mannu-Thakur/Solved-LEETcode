@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0871-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
+| [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [1008-binary-tree-cameras](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0871-keys-and-rooms) |
+| [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
+| [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
