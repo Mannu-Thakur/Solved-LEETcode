@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0051-n-queens) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0051-n-queens) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Heap (Priority Queue)
