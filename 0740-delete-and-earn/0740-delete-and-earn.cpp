@@ -12,7 +12,7 @@ public:
         int pick = 0, not_pick = 0;
         
         for(int i = 0; i <= max_num; ++i){
-            int curr_pick = not_pick + points[i];   
+            int curr_pick = not_pick + points[i]; 
             int curr_not_pick = max(pick, not_pick);   
             
             pick = curr_pick;
