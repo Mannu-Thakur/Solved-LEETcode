@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0390-elimination-game) |
@@ -506,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
