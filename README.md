@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
