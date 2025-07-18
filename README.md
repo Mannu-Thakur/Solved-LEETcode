@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0171-excel-sheet-column-number) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
