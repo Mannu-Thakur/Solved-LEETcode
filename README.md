@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0221-maximal-square) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0131-palindrome-partitioning) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Heap (Priority Queue)
