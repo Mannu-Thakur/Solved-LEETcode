@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0345-reverse-vowels-of-a-string) |
