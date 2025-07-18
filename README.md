@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0287-find-the-duplicate-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0046-permutations) |
