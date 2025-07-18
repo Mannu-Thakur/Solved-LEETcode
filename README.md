@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0768-partition-labels) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0747-min-cost-climbing-stairs) |
