@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Trie
 |  |
@@ -679,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
