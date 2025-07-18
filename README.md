@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0221-maximal-square) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0162-find-peak-element) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1013-fibonacci-number) |
@@ -599,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
 ## Union Find
 |  |
