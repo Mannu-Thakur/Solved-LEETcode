@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
