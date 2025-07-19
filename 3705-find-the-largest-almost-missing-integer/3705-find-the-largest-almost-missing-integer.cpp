@@ -11,11 +11,9 @@ public:
         for(int i = 0; i <= n - k; ++i){
             unordered_set<int> seen;
             for(int j = i; j < i + k; ++j){
-                seen.insert(nums[j]);
+                count[nums[j]]++;
             }
-            for(int num : seen){
-                count[num]++;
-            }
+            
         }
 
         int ans = -1;
