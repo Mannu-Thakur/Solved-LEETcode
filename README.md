@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
+| [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
+| [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
 ## Backtracking
 |  |
 | ------- |
