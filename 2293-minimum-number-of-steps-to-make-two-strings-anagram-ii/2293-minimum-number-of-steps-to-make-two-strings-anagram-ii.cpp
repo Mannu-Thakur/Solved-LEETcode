@@ -1,13 +1,22 @@
 class Solution {
 public:
     int minSteps(string s, string t) {
-        vector<int> count(26, 0);
+        unordered_map<int,int>mp;
 
-        for(auto &c: s) count[c - 'a']++;
-        for(auto &c: t) count[c - 'a']--;
+        for(auto &f: s){
+            mp[f]++;
+        }
+        for(auto &f: t){
+      
+                mp[f]--;
+           
+            
+        }
 
         int cnt = 0;
-        for(auto &c: count) cnt += abs(c);
+        for(auto &f: mp){
+            cnt += abs(f.second);
+        }
 
         return cnt;
     }
