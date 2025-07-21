@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
