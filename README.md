@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1250-longest-common-subsequence) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
