@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2455-node-with-highest-edge-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2455-node-with-highest-edge-score) |
 ## Two Pointers
 |  |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Biconnected Component
 |  |
 | ------- |
