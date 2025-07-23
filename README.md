@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
