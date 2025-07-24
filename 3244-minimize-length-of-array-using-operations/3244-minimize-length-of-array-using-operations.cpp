@@ -1,15 +1,19 @@
 class Solution {
 public:
     int minimumArrayLength(vector<int>& nums) {
-         int min_val = *min_element(nums.begin(), nums.end());
-        for (int num : nums) {
-            if (num % min_val != 0) return 1; 
+        int min_val = *min_element(nums.begin(), nums.end());
+
+        for (int x : nums) {
+            if (x % min_val != 0)
+                return 1;  // Cannot reduce this element
         }
 
-         int count = count_if(nums.begin(), nums.end(), [&](int x) {
-            return x == min_val;
-        });
+        // Count how many elements equal to min_val
+        int count = 0;
+        for (int x : nums) {
+            if (x == min_val) count++;
+        }
 
-        return (count + 1) / 2;  
+        return (count + 1) / 2;
     }
 };
