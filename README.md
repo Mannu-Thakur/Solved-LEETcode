@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0234-palindrome-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
