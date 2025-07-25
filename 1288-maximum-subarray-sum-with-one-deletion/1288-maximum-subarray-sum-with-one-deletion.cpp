@@ -1,22 +1,24 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& a) {
-        int n = a.size();
-        long long res = a[0];
-        long long nd = a[0];       // No deletion
-        long long od = LLONG_MIN;  // One deletion
+    int maximumSum(vector<int>& arr) {
+        int n = arr.size();
+        if (n == 0) return 0;
+
+        long long maxSum = arr[0];
+        long long noDel = arr[0];
+        long long oneDel = LLONG_MIN;
 
         for (int i = 1; i < n; ++i) {
-            // only add od + a[i] if od is not LLONG_MIN
-            if (od != LLONG_MIN)
-                od = max(od + a[i], nd);
+            // Only add to oneDel if it's not LLONG_MIN to avoid overflow
+            if (oneDel == LLONG_MIN)
+                oneDel = noDel;  // delete current element
             else
-                od = nd;
+                oneDel = max(noDel, oneDel + arr[i]);
 
-            nd = max((long long)a[i], nd + a[i]);
-            res = max({res, nd, od});
+            noDel = max((long long)arr[i], noDel + arr[i]);
+            maxSum = max({maxSum, noDel, oneDel});
         }
 
-        return (int)res;
+        return static_cast<int>(maxSum);
     }
 };
