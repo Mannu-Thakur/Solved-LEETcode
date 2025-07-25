@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1300-critical-connections-in-a-network) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Table
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1428-jump-game-iii) |
