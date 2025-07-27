@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
+| [0932-monotonic-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
 | [0967-minimum-falling-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0967-minimum-falling-path-sum) |
