@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-node-with-highest-edge-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2455-node-with-highest-edge-score) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
+| [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
