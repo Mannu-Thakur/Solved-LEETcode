@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3396-valid-word) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Function
 |  |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
