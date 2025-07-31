@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
