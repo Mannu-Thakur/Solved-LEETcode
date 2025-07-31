@@ -5,8 +5,8 @@ class Solution {
         string res = ""; // to store result instead of appending to same string
 
         while(read < n){
-            int cnt = 0;               // changed auto -> int
-            char curr = s[read];       // changed auto -> char
+            auto cnt = 0;               // changed auto -> int
+            auto curr = s[read];       // changed auto -> char
 
             while(read < n && curr == s[read]){
                 cnt++;
