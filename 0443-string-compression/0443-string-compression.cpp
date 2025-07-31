@@ -1,37 +1,28 @@
 class Solution {
 public:
-    int compress(vector<char>& chars) {
-        string s = "";
-        int n = chars.size();
+   int compress(vector<char>& chars) {
+    int write = 0;
+    int read = 0;
+    int n = chars.size();
 
-        int cnt = 1;
-        char last = chars[0];
+    while (read < n) {
+        char curr = chars[read];
+        int count = 0;
 
-        for (int i = 1; i < n; ++i) {
-            if (chars[i] == last) {
-                cnt++;
-            } else {
-                s.push_back(last);
-                if (cnt > 1) {
-                    string cntStr = to_string(cnt);
-                    s += cntStr; // add all digits of count
-                }
-                cnt = 1; // reset for new char
-                last = chars[i];
+        while (read < n && chars[read] == curr) {
+            read++;
+            count++;
+        }
+
+        chars[write++] = curr;
+        if (count > 1) {
+            for (char c : to_string(count)) {
+                chars[write++] = c;
             }
         }
-
-        // Handle last group
-        s.push_back(last);
-        if (cnt > 1) {
-            string cntStr = to_string(cnt);
-            s += cntStr;
-        }
-
-        // Write back to chars
-        for (int i = 0; i < s.size(); ++i)
-            chars[i] = s[i];
-
-        return s.size();
     }
+
+    return write;
+}
+
 };
