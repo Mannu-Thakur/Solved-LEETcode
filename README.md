@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -1076,4 +1078,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0220-contains-duplicate-iii) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
