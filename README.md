@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2721-sum-of-distances) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 ## Math
 |  |
 | ------- |
