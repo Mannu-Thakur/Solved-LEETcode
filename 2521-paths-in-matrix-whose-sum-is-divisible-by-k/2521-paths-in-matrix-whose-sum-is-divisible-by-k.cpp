@@ -1,5 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
 
 class Solution {
     int mod = 1e9 + 7;
@@ -30,8 +28,6 @@ public:
     int numberOfPaths(vector<vector<int>>& grid, int k) {
         int n = grid.size();
         int m = grid[0].size();
-
-        // ✅ allocate dp properly
         dp.assign(n, vector<vector<int>>(m, vector<int>(k, -1)));
 
         return solve(grid, k, n, m, 0, 0, 0);
