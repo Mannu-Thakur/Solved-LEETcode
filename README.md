@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
+| [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
 | [0967-minimum-falling-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
+| [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
