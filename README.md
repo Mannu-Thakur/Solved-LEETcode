@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0118-pascals-triangle) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
