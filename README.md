@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0437-path-sum-iii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0392-is-subsequence) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1013-fibonacci-number) |
@@ -824,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0801-is-graph-bipartite) |
@@ -930,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0967-minimum-falling-path-sum) |
@@ -1059,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
