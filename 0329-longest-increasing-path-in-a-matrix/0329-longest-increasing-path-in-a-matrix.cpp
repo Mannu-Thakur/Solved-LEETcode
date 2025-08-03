@@ -1,4 +1,6 @@
 class Solution {
+    int dx[4] = {-1, 1, 0, 0};  
+    int dy[4] = {0, 0, -1, 1};
 public:
     int solve(int n, int m, vector<vector<int>>& matrix, int i, int j, vector<vector<int>>& dp) {
         if (i >= n || j >= m) {
@@ -9,11 +11,7 @@ public:
             return dp[i][j];
         }
 
-        int len = 1; // Initialize with 1 as the current cell itself contributes to the length
-
-        int dx[] = {-1, 1, 0, 0}; // Directions: up, down, left, right
-        int dy[] = {0, 0, -1, 1};
-
+        int len = 1;  
         for (int k = 0; k < 4; k++) {
             int newX = i + dx[k];
             int newY = j + dy[k];
@@ -30,7 +28,7 @@ public:
     int longestIncreasingPath(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>> dp(n, vector<int>(m, -1)); // Initialize DP array with -1
+        vector<vector<int>> dp(n, vector<int>(m, -1));  
 
         int ans = 0;
         for (int i = 0; i < n; i++) {
