@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1637-string-compression-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1637-string-compression-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-truncate-sentence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1944-truncate-sentence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
+| [1944-truncate-sentence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
