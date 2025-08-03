@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0441-arranging-coins) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1124,10 +1126,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
