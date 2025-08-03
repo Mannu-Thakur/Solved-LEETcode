@@ -1,19 +1,19 @@
 class Solution {
 public:
     string truncateSentence(string s, int k) {
-        int n = s.length();
-        string ans = "";
+        int n = s.size();
+        int count = 0;
 
-        stringstream ss(s);
-        string word  = "";
-        while( ss >> word){
-            ans += word;
-            k--;
-
-            if(k == 0) return ans;
-            ans += " ";
+        for (int i = 0; i < n; i++) {
+            if (s[i] == ' ') {
+                count++;
+                if (count == k) {
+                    return s.substr(0, i);
+                }
+            }
         }
-
-        return ans;
+        return s;   
     }
 };
+
+// this is faster than the previously done by stringstream solution 
