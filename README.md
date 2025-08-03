@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
 | [1944-truncate-sentence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1253-sort-the-matrix-diagonally](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2047-find-a-peak-element-ii) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
