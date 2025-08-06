@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
+| [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0398-random-pick-index](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0398-random-pick-index) |
 | [0441-arranging-coins](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
