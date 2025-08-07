@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Hash Table
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2047-find-a-peak-element-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2047-find-a-peak-element-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1637-string-compression-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1637-string-compression-ii) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
@@ -690,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
@@ -781,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
@@ -958,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -1083,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1127,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0956-number-of-music-playlists) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
