@@ -6,6 +6,7 @@ public:
         if( n!= m) return false;
 
         string newS = s + s;
-        return (newS.find(goal) != std::string::npos);
+        // return (newS.find(goal) != std::string::npos);
+        return (newS.find(goal) < newS.size());
     }
 };
