@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1105-uncrossed-lines](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1130-last-stone-weight-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1250-longest-common-subsequence) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1105-uncrossed-lines](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1130-last-stone-weight-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1130-last-stone-weight-ii) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
