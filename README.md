@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0287-find-the-duplicate-number) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
