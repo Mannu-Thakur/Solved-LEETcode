@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
