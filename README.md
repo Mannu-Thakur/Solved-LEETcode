@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0382-linked-list-random-node) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
