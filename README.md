@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1250-longest-common-subsequence) |
+| [1260-day-of-the-year](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1260-day-of-the-year) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
+| [1260-day-of-the-year](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
