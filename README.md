@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Memoization
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
+| [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
 ## Number Theory
 |  |
