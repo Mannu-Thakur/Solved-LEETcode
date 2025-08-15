@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Bucket Sort
 |  |
 | ------- |
