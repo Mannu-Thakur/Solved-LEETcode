@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2721-sum-of-distances](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2721-sum-of-distances) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2659-number-of-even-and-odd-bits) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Graph
@@ -991,12 +994,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Union Find
 |  |
 | ------- |
