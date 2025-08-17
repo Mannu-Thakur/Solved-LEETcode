@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0523-continuous-subarray-sum) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
