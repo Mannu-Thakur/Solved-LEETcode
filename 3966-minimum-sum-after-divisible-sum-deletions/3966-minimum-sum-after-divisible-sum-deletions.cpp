@@ -7,19 +7,21 @@ public:
 
          vector<long long> dp(n + 1, 0);
 
-        int sum = 0;
+        long long sum = 0;
 
          for (int i = n - 1; i >= 0; i--) {
-            sum = (sum + nums[i]) % k;
-            if (sum < 0) sum += k;
+            sum += nums[i];
+
+            int mod = sum % k;
+            if (mod < 0) mod += k;
 
              dp[i] = nums[i] + dp[i + 1]; 
 
-             if (indexMap.count(sum)) {
-                dp[i] = min(dp[i], dp[indexMap[sum]]);
+             if (indexMap.count(mod)) {
+                dp[i] = min(dp[i], dp[indexMap[mod]]);
             }
 
-             indexMap[sum] = i;
+             indexMap[mod] = i;
         }
 
         return dp[0];
