@@ -2,31 +2,28 @@ class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
         int n = nums.size();
+        // int cnt =  count(nums.begin(), nums.end(), 0);
 
-        vector<int> temp;
+        int i=0;
+        int ans = 0;
+       
         int len = 0;
-
-        for (int i = 0; i < n; ++i) {
-            if (nums[i] == 0) {
+        while( i < n ){
+            if(nums[i] == 0){
+                i++;
                 len++;
-            } else {
-                if (len > 0) {
-                    temp.push_back(len);  
-                    len = 0;                 
+            }else{
+                if(len > 0){
+                    ans += 1LL*len*(len + 1)/2;
+                    len = 0;
                 }
+                i++;
+
             }
         }
 
-        
-        if (len > 0) {
-            temp.push_back(len);
-        }
-
-        long long ans = 0;
-        for (auto &f : temp) {
-            ans += (1LL * f * (f + 1)) / 2; // Cast to long long to prevent overflow
-        }
-
-        return ans;
+        ans += 1LL*len*(len + 1)/2;
+        return ans ;
+         
     }
 };
