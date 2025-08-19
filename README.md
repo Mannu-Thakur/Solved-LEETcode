@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0220-contains-duplicate-iii) |
+| [0413-arithmetic-slices](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
