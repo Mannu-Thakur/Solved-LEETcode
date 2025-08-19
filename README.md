@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
