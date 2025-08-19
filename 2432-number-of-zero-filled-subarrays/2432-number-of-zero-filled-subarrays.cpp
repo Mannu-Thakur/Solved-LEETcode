@@ -2,28 +2,23 @@ class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
         int n = nums.size();
-        // int cnt =  count(nums.begin(), nums.end(), 0);
+        long long ans = 0;  // changed to long long
+        long long len = 0;  // also long long, because len*(len+1)/2 can overflow int
 
-        int i=0;
-        int ans = 0;
-       
-        int len = 0;
-        while( i < n ){
-            if(nums[i] == 0){
-                i++;
+        int i = 0;
+        while (i < n) {
+            if (nums[i] == 0) {
                 len++;
-            }else{
-                if(len > 0){
-                    ans += 1LL*len*(len + 1)/2;
+            } else {
+                if (len > 0) {
+                    ans += len * (len + 1) / 2;
                     len = 0;
                 }
-                i++;
-
             }
+            i++;
         }
 
-        ans += 1LL*len*(len + 1)/2;
-        return ans ;
-         
+        ans += len * (len + 1) / 2;  // add the last streak
+        return ans;
     }
 };
