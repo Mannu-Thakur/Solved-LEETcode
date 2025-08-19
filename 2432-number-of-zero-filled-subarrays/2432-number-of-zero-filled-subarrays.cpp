@@ -11,13 +11,13 @@ public:
                 len++;
             } else {
                 if (len > 0) {
-                    temp.push_back(len); // push the length of the 0-group
-                    len = 0;             // reset the length
+                    temp.push_back(len);  
+                    len = 0;                 
                 }
             }
         }
 
-        // In case the array ends with a zero streak
+        
         if (len > 0) {
             temp.push_back(len);
         }
