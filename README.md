@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
+| [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -967,12 +968,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
