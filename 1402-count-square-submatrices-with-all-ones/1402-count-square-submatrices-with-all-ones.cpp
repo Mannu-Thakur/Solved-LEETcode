@@ -1,23 +1,30 @@
-//  
+ 
 class Solution {
 public:
-    int countSquares(vector<vector<int>>& matrix) {
-        int ROWS = matrix.size();
-        int COLS = matrix[0].size();
-        map<pair<int,int>, int> cache;
+    int ROWS, COLS;
+    vector<vector<int>> matrix;
+    vector<vector<int>> cache;  
 
-        function<int(int,int)> dfs = [&](int r, int c) -> int {
-            if (r == ROWS || c == COLS || matrix[r][c] == 0)
-                return 0;
-            if (cache.count({r, c}))
-                return cache[{r, c}];
-            
-            return cache[{r, c}] = 1 + min({
-                dfs(r + 1, c),
-                dfs(r, c + 1),
-                dfs(r + 1, c + 1)
-            });
-        };
+    int dfs(int r, int c) {
+         if (r == ROWS || c == COLS || matrix[r][c] == 0)
+            return 0;
+
+         if (cache[r][c] != -1)
+            return cache[r][c];
+
+         int right = dfs(r, c + 1);
+        int down = dfs(r + 1, c);
+        int diag = dfs(r + 1, c + 1);
+
+        cache[r][c] = 1 + min({right, down, diag});
+        return cache[r][c];
+    }
+
+    int countSquares(vector<vector<int>>& mat) {
+        matrix = mat;
+        ROWS = matrix.size();
+        COLS = matrix[0].size();
+        cache.assign(ROWS, vector<int>(COLS, -1));
 
         int res = 0;
         for (int r = 0; r < ROWS; r++) {
