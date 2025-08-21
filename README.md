@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1637-string-compression-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1637-string-compression-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1547-destination-city](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1253-sort-the-matrix-diagonally](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Topological Sort
 |  |
 | ------- |
