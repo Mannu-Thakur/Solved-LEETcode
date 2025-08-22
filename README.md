@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
