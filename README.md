@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
+| [0679-24-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0523-continuous-subarray-sum) |
+| [0679-24-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0679-24-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
