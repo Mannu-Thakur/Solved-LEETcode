@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3429-special-array-i) |
