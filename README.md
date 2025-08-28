@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bitmask
 |  |
 | ------- |
