@@ -3,9 +3,11 @@ class Solution {
 
    struct cmp {
     bool operator()(const p &a, const p &b) const {
-        if (a.first == b.first) 
-            return a.second < b.second; 
-        return a.first > b.first; 
+         if(a.first != b.first){
+            return a.first < b.first;
+         }
+
+        return b.second > a.second;
     }
 };
 
