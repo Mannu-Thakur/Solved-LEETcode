@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 ## Backtracking
@@ -1243,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
