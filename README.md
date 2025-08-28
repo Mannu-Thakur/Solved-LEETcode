@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2737-row-with-maximum-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2737-row-with-maximum-ones) |
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
