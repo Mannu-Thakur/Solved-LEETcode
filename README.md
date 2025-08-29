@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3515-find-if-digit-game-can-be-won) |
