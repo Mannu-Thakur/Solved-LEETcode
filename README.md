@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2294-minimum-time-to-complete-trips) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2047-find-a-peak-element-ii) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
