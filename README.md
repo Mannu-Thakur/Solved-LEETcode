@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0045-jump-game-ii) |
@@ -1078,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0079-word-search) |
