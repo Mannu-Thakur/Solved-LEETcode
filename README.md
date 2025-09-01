@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
 | [1848-sum-of-unique-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1848-sum-of-unique-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1917-maximum-average-pass-ratio](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
