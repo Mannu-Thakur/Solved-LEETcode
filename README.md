@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2340-total-appeal-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2340-total-appeal-of-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-node-with-highest-edge-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2455-node-with-highest-edge-score) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2294-minimum-time-to-complete-trips](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
