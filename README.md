@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1428-jump-game-iii) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
