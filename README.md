@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0321-create-maximum-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0134-gas-station) |
 | [0321-create-maximum-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
