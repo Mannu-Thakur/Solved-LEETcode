@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1547-destination-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1848-sum-of-unique-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1848-sum-of-unique-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1944-truncate-sentence) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2140-longest-subsequence-repeated-k-times) |
