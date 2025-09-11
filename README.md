@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2887-sort-vowels-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3396-valid-word) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
