@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Hash Function
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3462-vowels-game-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
+| [3462-vowels-game-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
 |  |
