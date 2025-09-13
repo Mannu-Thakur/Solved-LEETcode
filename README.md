@@ -513,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1448-maximum-69-number) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0956-number-of-music-playlists) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
