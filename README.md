@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String Matching
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
