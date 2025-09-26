@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3429-special-array-i) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3221-find-the-peaks) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
 ## Number Theory
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Brainteaser
 |  |
 | ------- |
