@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2187-vowels-of-all-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2187-vowels-of-all-substrings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
