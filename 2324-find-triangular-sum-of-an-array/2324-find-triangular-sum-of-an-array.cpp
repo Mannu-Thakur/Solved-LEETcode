@@ -1,4 +1,7 @@
-int collapseShortcut(vector<int>& nums) {
+class Solution {
+public:
+    int triangularSum(vector<int>& nums) {
+        
     int n = nums.size();
     int result = 0;
 
@@ -16,3 +19,4 @@ int collapseShortcut(vector<int>& nums) {
 
     return result;
 }
+};
