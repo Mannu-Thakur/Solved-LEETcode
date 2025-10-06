@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0652-find-duplicate-subtrees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0611-valid-triangle-number) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0740-delete-and-earn](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
@@ -1154,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
@@ -1174,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1036-rotting-oranges) |
