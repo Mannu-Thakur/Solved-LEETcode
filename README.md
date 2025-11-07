@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
