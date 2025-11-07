@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0910-nth-magical-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0910-nth-magical-number) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0679-24-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
+| [0910-nth-magical-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0910-nth-magical-number) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
 | [0956-number-of-music-playlists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0956-number-of-music-playlists) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
