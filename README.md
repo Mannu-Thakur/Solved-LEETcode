@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1637-string-compression-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1637-string-compression-ii) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1547-destination-city](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
