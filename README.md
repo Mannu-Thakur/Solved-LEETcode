@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1006-vowel-spellchecker](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1006-vowel-spellchecker) |
 | [1010-powerful-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1010-powerful-integers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [1010-powerful-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
