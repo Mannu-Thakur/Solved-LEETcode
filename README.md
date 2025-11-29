@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2721-sum-of-distances](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2721-sum-of-distances) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2721-sum-of-distances](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2721-sum-of-distances) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
