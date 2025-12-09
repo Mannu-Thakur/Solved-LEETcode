@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3643-zero-array-transformation-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1086,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Graph
 |  |
 | ------- |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Brainteaser
 |  |
 | ------- |
