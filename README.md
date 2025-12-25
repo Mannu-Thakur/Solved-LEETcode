@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2845-find-the-value-of-the-partition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3328-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
