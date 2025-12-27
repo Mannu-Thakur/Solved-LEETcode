@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0953-reverse-only-letters) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0940-fruit-into-baskets) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0768-partition-labels) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0917-boats-to-save-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0917-boats-to-save-people) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
