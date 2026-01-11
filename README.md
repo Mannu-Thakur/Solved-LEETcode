@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
 | [1547-destination-city](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1547-destination-city) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1499-maximum-performance-of-a-team](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1503-reducing-dishes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
