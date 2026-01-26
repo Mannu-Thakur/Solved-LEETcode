@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Bucket Sort
 |  |
@@ -1213,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1322,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Database
 |  |
 | ------- |
@@ -1466,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0220-contains-duplicate-iii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Eulerian Circuit
 |  |
@@ -1491,4 +1497,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
