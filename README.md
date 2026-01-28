@@ -1094,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Bucket Sort
 |  |
@@ -1493,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1501,4 +1503,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
