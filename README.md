@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0398-random-pick-index) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1323,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0908-middle-of-the-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -1434,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
 |  |
