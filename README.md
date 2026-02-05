@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3819-rotate-non-negative-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3819-rotate-non-negative-elements) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Prefix Sum
 |  |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3819-rotate-non-negative-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3819-rotate-non-negative-elements) |
 ## Sliding Window
 |  |
 | ------- |
