@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Depth-First Search
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2183-minimum-operations-to-convert-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
