@@ -814,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Prefix Sum
 |  |
