@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0940-fruit-into-baskets) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1006-vowel-spellchecker) |
 | [1010-powerful-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1010-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1036-rotting-oranges) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0692-top-k-frequent-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -1248,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
