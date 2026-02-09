@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1300-critical-connections-in-a-network) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1001,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -1421,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0654-maximum-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Queue
 |  |
