@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Breadth-First Search
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3634-minimum-removals-to-balance-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3643-zero-array-transformation-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -1428,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1524,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
 |  |
