@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0889-buddy-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0889-buddy-strings) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0940-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1006-vowel-spellchecker) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
