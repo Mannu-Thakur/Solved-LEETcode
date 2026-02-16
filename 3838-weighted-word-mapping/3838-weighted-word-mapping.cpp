@@ -13,7 +13,7 @@ public:
 
             sum %= 26;
 
-            ans += 'a' + (25 - sum);   
+            ans += char('a' + (25 - sum));  
         }
 
         return ans;
