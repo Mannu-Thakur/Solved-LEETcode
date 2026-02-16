@@ -7,13 +7,13 @@ public:
             int sum = 0;
 
             for (char c : word) {
-                int idx = c - 'a';   // alphabet index
+                int idx = c - 'a';    
                 sum += weights[idx];
             }
 
             sum %= 26;
 
-            ans += char('a' + (25 - sum));  // reverse mapping
+            ans += 'a' + (25 - sum);   
         }
 
         return ans;
