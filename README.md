@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-day-of-the-year](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1547-destination-city](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1547-destination-city) |
@@ -1155,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
