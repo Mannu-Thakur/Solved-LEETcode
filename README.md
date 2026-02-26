@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0416-partition-equal-subset-sum) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0321-create-maximum-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0330-patching-array) |
+| [0397-integer-replacement](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0611-valid-triangle-number) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1013-fibonacci-number) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-shortest-path-visiting-all-nodes) |
