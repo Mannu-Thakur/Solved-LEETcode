@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
 | [1617-stone-game-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1617-stone-game-iv) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0983-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
