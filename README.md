@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1217-relative-sort-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1039-find-the-town-judge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1105-uncrossed-lines](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1337,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0971-shortest-bridge](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1073-number-of-enclaves) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1380-number-of-closed-islands](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1402-count-square-submatrices-with-all-ones) |
