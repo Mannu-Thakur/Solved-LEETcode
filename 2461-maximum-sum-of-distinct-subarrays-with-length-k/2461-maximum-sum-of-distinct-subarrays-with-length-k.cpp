@@ -11,7 +11,7 @@ public:
         }
 
         ll temp = 0;
-        unordered_map<int,int> freq;
+        unordered_map<ll,ll> freq;
 
          for(int i = 0; i < k; ++i){
             temp += nums[i];
