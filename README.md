@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1637-string-compression-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1637-string-compression-ii) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 | [1791-richest-customer-wealth](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1808-stone-game-vii) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1167,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1230,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1362,6 +1367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 ## Queue
 |  |
 | ------- |
