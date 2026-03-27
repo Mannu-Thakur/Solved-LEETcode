@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2845-find-the-value-of-the-partition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2386-min-max-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2386-min-max-game) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2737-row-with-maximum-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2737-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bitmask
