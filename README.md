@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2721-sum-of-distances](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2721-sum-of-distances) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2845-find-the-value-of-the-partition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
