@@ -830,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
@@ -1191,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2659-number-of-even-and-odd-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
