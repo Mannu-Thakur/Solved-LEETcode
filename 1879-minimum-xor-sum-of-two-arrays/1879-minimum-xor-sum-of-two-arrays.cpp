@@ -1,24 +1,27 @@
 class Solution {
+    int solve(int n, vector<int>&nums1, vector<int>&nums2, int i, int j, vector<vector<int>>&dp){
+        if(i == n){
+            return 0;
+        }
+
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+
+        int res = INT_MAX;
+
+        for(int k = 0; k < n; ++k){
+            if(!(j & ( 1 << k))){
+                res = min(res, (nums1[i] ^ nums2[k] ) + solve(n, nums1, nums2, i+1, j | ( 1 << k), dp));
+            } 
+        }
+        return dp[i][j] = res;
+    }
 public:
     int minimumXORSum(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
-        vector<int> dp(1 << n, INT_MAX);
-
-        dp[0] = 0; // nothing assigned
-
-        for(int mask = 0; mask < (1 << n); mask++) {
-            int i = __builtin_popcount(mask); // how many assigned
-
-            for(int j = 0; j < n; j++) {
-                if(!(mask & (1 << j))) { // if j not used
-                    int newMask = mask | (1 << j);
-
-                    dp[newMask] = min(dp[newMask],
-                        dp[mask] + (nums1[i] ^ nums2[j]));
-                }
-            }
-        }
-
-        return dp[(1 << n) - 1];
+        vector<vector<int>>dp(n, vector<int>( 1 << n, -1));
+        return solve(n, nums1, nums2, 0, 0, dp);
+        
     }
 };
