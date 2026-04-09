@@ -849,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3643-zero-array-transformation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3819-rotate-non-negative-elements) |
 ## Sliding Window
@@ -1495,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |
