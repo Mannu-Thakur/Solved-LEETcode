@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0910-nth-magical-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0910-nth-magical-number) |
 | [0933-increasing-order-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1201-ugly-number-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1201-ugly-number-iii) |
 | [1285-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1201-ugly-number-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1201-ugly-number-iii) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1260-day-of-the-year) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0204-count-primes) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0989-largest-component-size-by-common-factor) |
+| [1201-ugly-number-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1201-ugly-number-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1552,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0458-poor-pigs) |
 | [0956-number-of-music-playlists](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0956-number-of-music-playlists) |
+| [1201-ugly-number-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1201-ugly-number-iii) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1761-count-sorted-vowel-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1761-count-sorted-vowel-strings) |
