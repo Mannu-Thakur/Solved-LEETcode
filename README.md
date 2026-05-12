@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1755-closest-subsequence-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1755-closest-subsequence-sum) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1694-make-sum-divisible-by-p](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1834-minimum-number-of-people-to-teach) |
