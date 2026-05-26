@@ -827,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2808-painting-the-walls](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2808-painting-the-walls) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2845-find-the-value-of-the-partition](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2845-find-the-value-of-the-partition) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
