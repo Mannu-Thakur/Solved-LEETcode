@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3719-longest-balanced-subarray-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Breadth-First Search
 |  |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3790-fruits-into-baskets-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3819-rotate-non-negative-elements) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Prefix Sum
 |  |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-permutations-iv](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3783-permutations-iv) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Recursion
 |  |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Memoization
 |  |
 | ------- |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Backtracking
 |  |
