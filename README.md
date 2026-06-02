@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3366-minimum-array-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3366-minimum-array-sum) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Array
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3366-minimum-array-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3366-minimum-array-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3429-special-array-i) |
