@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2721-sum-of-distances](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2721-sum-of-distances) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2502-sort-the-people) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2457-count-special-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2457-count-special-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2481-strictly-palindromic-number) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2498-frog-jump-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2498-frog-jump-ii) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
