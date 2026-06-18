@@ -959,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1201-ugly-number-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1201-ugly-number-iii) |
 | [1236-n-th-tribonacci-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1260-day-of-the-year) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
