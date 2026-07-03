@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2886-faulty-keyboard](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3396-valid-word](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3396-valid-word) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -1581,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Combinatorics
 |  |
 | ------- |
