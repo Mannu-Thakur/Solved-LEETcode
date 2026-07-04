@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3957-sum-of-perfect-square-ancestors](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3957-sum-of-perfect-square-ancestors) |
 ## Binary Tree
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2183-minimum-operations-to-convert-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2183-minimum-operations-to-convert-number) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Binary Search Tree
@@ -1653,5 +1655,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0834-sum-of-distances-in-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
