@@ -1,37 +1,56 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
-    // Reverses k nodes starting from head
-    ListNode* reverse(ListNode* head, int k) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-        ListNode* next = nullptr;
-
-        while (k-- && curr) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
+    int countNodes(ListNode* head) {
+        int cnt = 0;
+        while (head != nullptr) {
+            cnt++;
+            head = head->next;
         }
-
-        return prev;   
+        return cnt;
     }
 
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || !head->next || k == 1) return head;
+        if (!head || k == 1)
+            return head;
 
-         ListNode* curr = head;
-        int count = 0;
-        while (curr && count < k) {
-            curr = curr->next;
-            count++;
+        int cnt = countNodes(head);
+
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* prevGroup = dummy;
+
+        while (cnt >= k) {
+            ListNode* curr = prevGroup->next;
+            ListNode* next = curr->next;
+            ListNode* first = curr;      
+            ListNode* prev = nullptr;
+
+             for (int i = 0; i < k; i++) {
+                next = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = next;
+            }
+
+             prevGroup->next = prev;
+            first->next = curr;
+
+             prevGroup = first;
+
+            cnt -= k;
         }
 
-        if (count < k) return head;  
-
-         ListNode* newHead = reverse(head, k);
-
-         head->next = reverseKGroup(curr, k);
-
-        return newHead;
+        return dummy->next;
     }
 };
