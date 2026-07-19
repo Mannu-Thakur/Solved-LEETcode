@@ -1,40 +1,44 @@
 class Solution {
-    int dx[4] = {0, 1, 0, -1};
-    int dy[4] = {1, 0, -1, 0};
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int n = mat.size();
-        int m = mat[0].size();
 
-        vector<vector<int>> ht(n, vector<int>(m, -1));
-        queue<pair<int, int>> q;
+        int m = mat.size();
+        int n = mat[0].size();
 
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
-                if (mat[i][j] == 0) {
+        queue<pair<int,int>> q;
+        vector<vector<int>> dist(m, vector<int>(n, -1));
+
+        // Push all 0's into the queue
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(mat[i][j] == 0) {
                     q.push({i, j});
-                    ht[i][j] = 0;
+                    dist[i][j] = 0;
                 }
             }
         }
 
-        // Perform BFS
-        while (!q.empty()) {
-            auto f = q.front();
+        int dx[] = {-1, 1, 0, 0};
+        int dy[] = {0, 0, -1, 1};
+
+        while(!q.empty()) {
+            auto [x, y] = q.front();
             q.pop();
-            int x = f.first, y = f.second;
 
-            for (int i = 0; i < 4; ++i) {
-                int xx = x + dx[i];
-                int yy = y + dy[i];
+            for(int k = 0; k < 4; k++) {
+                int nx = x + dx[k];
+                int ny = y + dy[k];
 
-                if (xx >= 0 && xx < n && yy >= 0 && yy < m && ht[xx][yy] == -1) {
-                    ht[xx][yy] = ht[x][y] + 1;
-                    q.push({xx, yy});
+                if(nx >= 0 && nx < m &&
+                   ny >= 0 && ny < n &&
+                   dist[nx][ny] == -1) {
+
+                    dist[nx][ny] = dist[x][y] + 1;
+                    q.push({nx, ny});
                 }
             }
         }
 
-        return ht;
+        return dist;
     }
 };
