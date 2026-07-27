@@ -1001,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2716-prime-subtraction-operation](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2716-prime-subtraction-operation) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/3201-distribute-candies-among-children-ii) |
