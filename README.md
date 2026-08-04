@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0834-sum-of-distances-in-tree](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-stone-game) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0930-all-possible-full-binary-trees) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0759-set-intersection-size-at-least-two](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0833-bus-routes) |
+| [0877-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0523-continuous-subarray-sum) |
 | [0679-24-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0679-24-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [0910-nth-magical-number](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0910-nth-magical-number) |
 | [0944-smallest-range-i](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0944-smallest-range-i) |
@@ -1325,6 +1328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1086-divisor-game) |
 | [1522-stone-game-iii](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/1522-stone-game-iii) |
@@ -1671,4 +1675,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mannu-Thakur/Solved-LEETcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
